@@ -48,7 +48,7 @@ id: home
 			<p>Evite problemas de especificidad e infiernos de sobre-escritura. Escriba CSS como si siempre tuviera un lienzo en blanco.</p>
 		</div>
 		<div class="benefit">
-			<h3>Asministrar el estado es facil</h3>
+			<h3>Administrar el estado es fácil</h3>
 			<p>Cambie el "look and feel" basado en estados como <em>cargando</em>, <em>deshabilitado</em> y <em>oculto</em>.</p>
 		</div>
 		<div class="benefit">
