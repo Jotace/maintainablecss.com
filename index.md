@@ -8,8 +8,8 @@ id: home
 	<img class="hero-logo" src="/assets/img/logo.png" width="250" height="250">
 
 	<h1>MaintainableCSS</h1>
-	<p>Write CSS without worrying that overzealous, pre-existing styles will cause problems. <em>MaintainableCSS</em> is an approach to writing <em>modular</em>, <em>scalable</em> and of course, <em>maintainable</em> CSS.</p>
-	<a class="hero-button" href="/chapters/introduction/">Read now</a>
+	<p>Escribir CSS sin preocuparse de ser demasiado entusiasta puede causar problemas con los estilos pre-existentes. <em>MaintainableCSS</em> es una aproximación a la escritura <em>modular</em>, <em>escalable</em> y por supuesto <em>mantenible</em> en CSS. </p>
+	<a class="hero-button" href="/chapters/introduction/">Leer ahora</a>
 </div>
 <!--
 	<h2>Maintainable &mdash; Adjective</h2>
@@ -17,93 +17,93 @@ id: home
 -->
 
 <div class="benefits">
-	<h2>Benefits of MaintainableCSS</h2>
+	<h2>Beneficios de MaintainableCSS</h2>
 	<div class="benefits-wrapper">
 		<div class="benefit">
-			<h3>Modular and encapsulated</h3>
-			<p>Styles don't bleed or cascade without your permission.</p>
+			<h3>Modular y encapsulado</h3>
+			<p>Los estilos no se sangran ni muestran en cascada sin su permiso.</p>
 		</div>
 		<div class="benefit">
-			<h3>Any design requirements</h3>
-			<p>Completely flexible to your needs.</p>
+			<h3>Cualquier requerimiento de diseño</h3>
+			<p>Completamente flexible para sus necesidades.</p>
 		</div>
 		<div class="benefit">
-			<h3>No tooling required</h3>
-			<p>But you can use tooling if you want to.</p>
+			<h3>No requiere herramientas</h3>
+			<p>Pero usted puede usar herramientas si lo desea.</p>
 		</div>
 		<div class="benefit">
-			<h3>Easy to learn</h3>
-			<p>Read the guides and see.</p>
+			<h3>Fácil de aprender</h3>
+			<p>Lea las guías y véalo.</p>
 		</div>
 		<div class="benefit">
-			<h3>Any size project</h3>
-			<p>Whatever size project you have, <em>MaintainableCSS</em> will help.</p>
+			<h3>Cualquier tamaño de proyecto</h3>
+			<p>Cualquiera sea el tamaño de su proyecto, <em>MaintainableCSS</em> le puede ayudar.</p>
 		</div>
 		<div class="benefit">
-			<h3>Upgrade in your own time</h3>
-			<p>You can start applying the approach today, bit by bit. You don't need to upgrade the whole project in one go.</p>
+			<h3>Actualice en su propio tiempo</h3>
+			<p>Usted puede comenzar a aplicar el enfoque hoy, poco a poco. No es necesario actualizar el proyecto completo de una sola vez.</p>
 		</div>
 		<div class="benefit">
-			<h3>No problems of specificity</h3>
-			<p>Avoid problems of specificity and override hell. Write CSS as if you always have a blank canvas.</p>
+			<h3>Sin problemas de especificidad</h3>
+			<p>Evite problemas de especificidad e infiernos de sobre-escritura. Escriba CSS como si siempre tuviera un lienzo en blanco.</p>
 		</div>
 		<div class="benefit">
-			<h3>Managing state is easy</h3>
-			<p>Change the look and feel based on states such as <em>loading</em>, <em>disabled</em> and <em>hiding</em>.</p>
+			<h3>Asministrar el estado es facil</h3>
+			<p>Cambie el "look and feel" basado en estados como <em>cargando</em>, <em>deshabilitado</em> y <em>oculto</em>.</p>
 		</div>
 		<div class="benefit">
-			<h3>No worry of regression</h3>
-			<p>When you change existing styles, have no fear that you might have caused regression elsewhere.</p>
+			<h3>No se preocupe por las regresiones</h3>
+			<p>Cuando cambie los estilos existentes, no tenga miedo de que podría haber causado la regresión de estilos en otros lugares.</p>
 		</div>
 		<div class="benefit">
-			<h3>Any team size</h3>
-			<p>Useful in a team of one or in a team of 100.</p>
+			<h3>Cualquier tamaño de equipo</h3>
+			<p>Útil en un equipo de 1 o en un equipo de 100.</p>
 		</div>
 		<div class="benefit">
-			<h3>Semantic HTML and CSS</h3>
-			<p>MaintainableCSS embraces semantic HTML and CSS, so you get all the benefits too.</p>
+			<h3>HTML Semántico  y CSS</h3>
+			<p>MaintainableCSS adopta la semántica HTML y CSS, para que pueda obtener todos los beneficios de ellos también.</p>
 		</div>
 		<div class="benefit">
-			<h3>High performance CSS</h3>
-			<p>Flat and performant selectors by convention.</p>
+			<h3>CSS de Alto Rendimiento</h3>
+			<p>Selectores planos y funcionales por convención.</p>
 		</div>
 		<div class="benefit">
-			<h3>Find redundant code easily</h3>
-			<p>It's easy to spot redundant code. Find it. Delete it.</p>
+			<h3>Encuentre código redundante fácilmente</h3>
+			<p>El código redundante es fácil de detectar. Encuéntralo. Bórralo.</p>
 		</div>
 		<div class="benefit">
-			<h3>AB testing and easy upgrading</h3>
-			<p>Want to test module variants against each other? MaintainableCSS makes this easy.</p>
+			<h3>Tests AB y fácil actualización</h3>
+			<p>¿Quieres probar variantes del módulo uno contra el otro? MaintainableCSS lo hace fácil.</p>
 		</div>
-		<a class="benefit-readNowButton" href="/chapters/introduction">Read now</a>
+		<a class="benefit-readNowButton" href="/chapters/introduction">Leer ahora</a>
 	</div>
 </div>
 <div class="recommendations">
-	<h2 class="recommendations-title">What others say</h2>
+	<h2 class="recommendations-title">Lo que otros dicen</h2>
 	<div class="recommendations-item">
 		<blockquote>
-			<p>&ldquo;A handy little read on learning how to write modular and maintainable CSS.&rdquo;
+			<p>&ldquo;Un poco de lectura útil en el aprendizaje de cómo escribir CSS modular y fácil de mantener.&rdquo;
 			<br>&mdash; <cite>Smashing Magazine</cite>
 			</p>
 		</blockquote>
 	</div>
 	<div class="recommendations-item">
 		<blockquote>
-			<p>&ldquo;Finally a good book on how to write maintainable CSS.&rdquo;
+			<p>&ldquo;Finalmente, un buen libro sobre cómo escribir CSS mantenible.&rdquo;
 			<br>&mdash; <cite>Alexander Dajani</cite>
 			</p>
 		</blockquote>
 	</div>
 	<div class="recommendations-item">
 		<blockquote>
-			<p>&ldquo;I actually love everything about this.&rdquo;
+			<p>&ldquo;De hecho, me encanta todo acerca de esto.&rdquo;
 			<br>&mdash; <cite>Simon Taggart</cite>
 			</p>
 		</blockquote>
 	</div>
 	<div class="recommendations-item">
 		<blockquote>
-			<p>&ldquo;Totally agree with this approach to CSS.&rdquo;
+			<p>&ldquo;Totalmente de acuerdo con este enfoque de CSS.&rdquo;
 			<br>&mdash; <cite>Marcel Reyna</cite>
 			</p>
 		</blockquote>
