@@ -34,4 +34,4 @@ Si alguna vez ha experimentado el sufrimiento en el mantenimiento de CSS, este l
 
 ## ¿Qué tan difícil es aprender esto?
 
-Yo diría que es muy fácil de aprender. Se puede leer el libro entero en menos de 20 minutos y aplicar las reglas en cuestión de minutos. Sin embargo déjame saber si estoy equivocado :).
+Yo diría que es muy fácil de aprender. Se puede leer el libro entero en menos de 20 minutos y aplicar las reglas en cuestión de minutos. Sin embargo déjeme saber si estoy equivocado :).
