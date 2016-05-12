@@ -20,7 +20,7 @@ Tener código mantenible significa que puedo editar un módulo y sus estilos sin
 
 ## ¿Qué significa Escalable?
 
-Esto significa, que a medida que el código CSS base aumenta de tamaño, el mantenimiento del código (véase punto anterior ) no es más complicado. Si alguna vez ha heredado un gran código base de CSS y ha estado preocupado acerca de cómo modificar los estilos existentes, esto le puede simpatizar.
+Esto significa, que a medida que el código CSS base aumenta de tamaño, el mantenimiento del código (véase punto anterior ) no es más complicado. Si alguna vez ha heredado un código base de CSS muy grande y ha estado preocupado acerca de cómo modificar los estilos existentes, esto le puede simpatizar.
 
 ## ¿Qué significa Modular?
 
